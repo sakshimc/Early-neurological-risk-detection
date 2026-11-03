@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "session_id": "video-test-session",
+  "tasks": {
+    "face": {
+      "task": "face",
+      "quality": "ok",
+      "reason": null,
+      "features": {
+        "frames_processed": 10,
+        "face_detection_rate": 1.0,
+        "blink_count": 0,
+        "blink_rate": 0.0,
+        "facial_movement_score": 0.0,
+        "facial_symmetry_score": 0.65
+      },
+      "metrics": {
+        "frames_processed": 10,
+        "video_duration": 2.0,
+        "frame_rate": 5.0,
+        "frames_with_landmarks": 10,
+        "detection_rate": 1.0
+      },
+      "feature_not_reliable": false
+    }
+  }
+}

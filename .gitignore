@@ -1,0 +1,17 @@
+# Node
+node_modules/
+frontend/node_modules/
+
+# Python
+backend/venv/
+__pycache__/
+*.py[cod]
+
+# Build outputs
+frontend/dist/
+
+# Environment files
+*.env
+
+# Data storage
+data/raw/typing/

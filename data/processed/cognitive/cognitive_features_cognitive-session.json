@@ -1,0 +1,27 @@
+{
+  "session_id": "cognitive-session",
+  "test_id": "cognitive",
+  "reaction_time": {
+    "trials": [
+      120.0,
+      140.0,
+      130.0
+    ],
+    "mean_ms": 130.0,
+    "median_ms": 130.0,
+    "variability_ms": 10.0
+  },
+  "working_memory": {
+    "maximum_sequence_length": 5,
+    "correct_trials": 3,
+    "total_trials": 4,
+    "accuracy": 0.75
+  },
+  "attention": {
+    "correct_hits": 3,
+    "false_alarms": 1,
+    "missed_targets": 0,
+    "accuracy": 0.8,
+    "mean_reaction_time_ms": 500.0
+  }
+}

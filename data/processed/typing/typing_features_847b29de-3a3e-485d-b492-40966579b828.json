@@ -1,0 +1,31 @@
+{
+  "session_id": "847b29de-3a3e-485d-b492-40966579b828",
+  "test_id": "typing",
+  "features": {
+    "total_characters": 44,
+    "typed_characters": 44,
+    "error_count": 0,
+    "accuracy": 100.0,
+    "completion_time_seconds": 22.2,
+    "typing_speed_wpm": 23.78,
+    "mean_hold_duration": 93.3,
+    "median_hold_duration": 75.0,
+    "std_hold_duration": 63.48,
+    "min_hold_duration": 6.0,
+    "max_hold_duration": 304.0,
+    "mean_inter_key_interval": 445.93,
+    "median_inter_key_interval": 375.0,
+    "std_inter_key_interval": 291.65,
+    "min_inter_key_interval": 133.0,
+    "max_inter_key_interval": 1902.0,
+    "pause_count": 1,
+    "total_pause_duration": 1902.0,
+    "mean_pause_duration": 1902.0,
+    "longest_pause_duration": 1902.0,
+    "backspace_count": 0,
+    "backspace_rate": 0.0,
+    "typing_rhythm_mean": 445.93,
+    "typing_rhythm_std": 291.65,
+    "typing_rhythm_cv": 0.654
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "task": "sustained_vowel",
+  "quality": {
+    "status": "good",
+    "reason": null
+  },
+  "features": {
+    "duration_seconds": 1.48,
+    "sample_rate": 16000,
+    "total_samples": 23680,
+    "rms_energy": 0.424327,
+    "voiced_frame_ratio": 1.0,
+    "silence_ratio": 0.0,
+    "mean_pitch_hz": 187.5,
+    "median_pitch_hz": 187.5,
+    "pitch_std_hz": 0.0,
+    "pitch_range_hz": 0.0,
+    "mean_rms": 0.424217,
+    "rms_std": 0.004146,
+    "pause_count": 0,
+    "total_pause_duration": 0.0,
+    "mean_pause_duration": 0.0,
+    "maximum_pause_duration": 0.0,
+    "jitter": 0.0,
+    "jitter_status": "ok",
+    "shimmer": 0.012134025325461368,
+    "shimmer_status": "ok",
+    "voiced_ratio": 1.0
+  }
+}

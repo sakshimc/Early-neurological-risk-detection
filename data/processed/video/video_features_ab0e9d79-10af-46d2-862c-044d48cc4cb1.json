@@ -1,0 +1,113 @@
+{
+  "status": "success",
+  "session_id": "ab0e9d79-10af-46d2-862c-044d48cc4cb1",
+  "tasks": {
+    "face": {
+      "task": "face",
+      "quality": "ok",
+      "reason": null,
+      "features": {
+        "frames_processed": 146,
+        "face_detection_rate": 1.0,
+        "blink_count": 5,
+        "blink_rate": 0.51,
+        "facial_movement_score": 1.597,
+        "facial_symmetry_score": 0.65
+      },
+      "metrics": {
+        "frames_processed": 146,
+        "video_duration": 9.8,
+        "frame_rate": 15.0,
+        "frames_with_landmarks": 146,
+        "detection_rate": 1.0
+      },
+      "feature_not_reliable": false
+    },
+    "hands": {
+      "task": "hands",
+      "quality": "ok",
+      "reason": null,
+      "features": {
+        "hand_detection_rate": 1.0,
+        "number_of_detected_hands": 2,
+        "hand_motion_amplitude": 2.957,
+        "hand_motion_frequency": 15.087,
+        "hand_motion_variability": 3.698,
+        "movement_smoothness": 0.0,
+        "left_right_movement_difference": 0.5
+      },
+      "metrics": {
+        "frames_processed": 148,
+        "video_duration": 9.81,
+        "frame_rate": 14.985,
+        "frames_with_landmarks": 148,
+        "detection_rate": 1.0
+      },
+      "feature_not_reliable": false
+    },
+    "posture": {
+      "task": "posture",
+      "quality": "ok",
+      "reason": null,
+      "features": {
+        "pose_detection_rate": 1.0,
+        "mean_torso_angle": 0.003,
+        "torso_angle_variability": 3.332,
+        "shoulder_alignment": 0.78,
+        "hip_alignment": 0.72,
+        "posture_stability": 0.997
+      },
+      "metrics": {
+        "frames_processed": 148,
+        "video_duration": 9.8,
+        "frame_rate": 15.0,
+        "frames_with_landmarks": 148,
+        "detection_rate": 1.0
+      },
+      "feature_not_reliable": false
+    },
+    "walking": {
+      "task": "walking",
+      "quality": "ok",
+      "reason": null,
+      "features": {
+        "pose_detection_rate": 1.0,
+        "step_like_movement_frequency": 15.052,
+        "left_right_leg_amplitude": 0.003,
+        "stride_timing_estimate": 7.526,
+        "walking_cadence_estimate": 15.052,
+        "arm_swing_amplitude": 0.003,
+        "arm_swing_symmetry": 0.75,
+        "movement_smoothness": 0.997
+      },
+      "metrics": {
+        "frames_processed": 223,
+        "video_duration": 14.815,
+        "frame_rate": 14.985,
+        "frames_with_landmarks": 223,
+        "detection_rate": 1.0
+      },
+      "feature_not_reliable": false
+    },
+    "turning": {
+      "task": "turning",
+      "quality": "ok",
+      "reason": null,
+      "features": {
+        "turn_duration": 9.81,
+        "body_rotation": 0.004,
+        "movement_smoothness": 0.996,
+        "poses_detected": 148,
+        "pose_detection_rate": 1.0
+      },
+      "metrics": {
+        "frames_processed": 148,
+        "video_duration": 9.81,
+        "frame_rate": 14.985,
+        "frames_with_landmarks": 148,
+        "detection_rate": 1.0
+      },
+      "feature_not_reliable": false
+    }
+  }
+}

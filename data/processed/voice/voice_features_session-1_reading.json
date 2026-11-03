@@ -1,0 +1,27 @@
+{
+  "task": "reading",
+  "quality": {
+    "status": "good",
+    "reason": null
+  },
+  "features": {
+    "duration_seconds": 1.2,
+    "sample_rate": 16000,
+    "total_samples": 19200,
+    "rms_energy": 0.424264,
+    "voiced_frame_ratio": 1.0,
+    "silence_ratio": 0.0,
+    "mean_pitch_hz": 218.75,
+    "median_pitch_hz": 218.75,
+    "pitch_std_hz": 0.0,
+    "pitch_range_hz": 0.0,
+    "mean_rms": 0.424279,
+    "rms_std": 0.000839,
+    "pause_count": 0,
+    "total_pause_duration": 0.0,
+    "mean_pause_duration": 0.0,
+    "maximum_pause_duration": 0.0,
+    "speech_rate_wpm": 500.0,
+    "speech_duration": 1.2
+  }
+}

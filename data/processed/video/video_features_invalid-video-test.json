@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "session_id": "invalid-video-test",
+  "tasks": {
+    "face": {
+      "task": "face",
+      "quality": "insufficient",
+      "reason": "Video file was not found",
+      "features": {},
+      "metrics": {},
+      "feature_not_reliable": true
+    }
+  }
+}
